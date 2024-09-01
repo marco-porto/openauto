@@ -46,7 +46,7 @@ find_package(Qt5 COMPONENTS Multimedia MultimediaWidgets Bluetooth Qml Quick Qui
 find_package(Protobuf REQUIRED)
 find_package(OpenSSL REQUIRED)
 find_package(rtaudio-6.0.1 REQUIRED)
-find_package(aasdk REQUIRED)
+find_package(aasdk-develop REQUIRED)
 find_package(h264 REQUIRED)
 find_package(Threads)
 
